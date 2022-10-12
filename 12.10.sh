@@ -53,6 +53,6 @@ rm -f /tmp/info.tmp.01.$$$
 *) echo "enter valid option only"
 	      exit;;
 esac
-
+done
 
 	
