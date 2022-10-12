@@ -1,3 +1,6 @@
+while [ 1 ]
+do
+echo "1.os \n 2.shell info \n 3.mouse settings \n 4.cpu \n 5.memory \n 7.file"
 echo "enter option"
 read op
 case $op in
